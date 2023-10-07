@@ -98,5 +98,34 @@ graph8 <- df %>%
        x = "Cuisine",
        y = "Proportion of respondents who have tried the average foreign cuisine (%)")
 
+green_theme <- theme(
+  plot.background = element_rect(fill = "#e6ffe6"), # Pale green background
+  panel.background = element_rect(fill = "#e6ffe6"),
+  panel.grid.major = element_line(color = "#cceccc"), # Slightly different shade of green for grid
   
+  axis.line = element_line(size = 0.5, color = "#339933"), # Adding solid axis lines
+  axis.ticks = element_line(color = "#339933"), # Dark green axis lines
+  axis.title = element_text(size = 14, face = "bold", color = "black", family = "Georgia"), # Dark green axis titles
+  axis.text = element_text(size = 12, color = "black", family = "Georgia"), # Dark green axis text
+  
+  legend.background = element_rect(fill = "#f0fff0"), # Slightly different green for legend
+  legend.title = element_text(face = "italic", color = "black"), # Italic, dark green legend title
+  
+  plot.title = element_text(size = 16, face = "bold", hjust = 0.5, color = "black", family = "Georgia"), # Dark green, bold, centered title
+  plot.subtitle = element_text(size = 14, hjust = 0.5, color = "#339933"), # Dark green, centered subtitle
+  plot.caption = element_text(size = 10, hjust = 1, color = "#339933") # Dark green, right-aligned caption
+)
 
+# Create a list of ggplot objects
+graph_list <- list(graph1, graph2, graph3, graph4, graph5, graph6, graph7, graph8)
+
+# Create a folder in your working directory
+if (!dir.exists("PlottedGraphs")) { # Check if folder exists
+  dir.create("PlottedGraphs")
+}
+
+# Loop through the list, apply the theme, and save each plot
+for (i in 1:length(graph_list)) {
+  graph_with_theme <- graph_list[[i]] + green_theme  # Apply the theme
+  ggsave(filename = paste0("PlottedGraphs/graph", i, ".png"), plot = graph_with_theme, width = 8, height = 6)
+}
