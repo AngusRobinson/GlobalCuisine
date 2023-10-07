@@ -1,0 +1,817 @@
+Cuisine,Respondent_Nationality,Unweighted_Base,Base,Like_a_lot_pc,Like_a_fair_amount_pc,Dont_like_very_much_pc,Dont_like_at_all_pc,Dont_know_pc,Never_tried_pc,Like_pc
+Spain,Australia,1020,1020,21,40,10,2,9,17,74
+Spain,China,1014,1014,4,15,13,4,14,50,38
+Spain,Hong Kong,1023,1023,10,45,17,3,7,17,67
+Spain,Indonesia,1024,1024,6,19,12,4,29,31,36
+Spain,Japan,1000,1000,10,39,7,0,20,24,64
+Spain,Malaysia,1003,1003,6,23,11,3,23,34,44
+Spain,Philippines,1019,1019,29,46,6,1,5,12,86
+Spain,Taiwan,1036,1036,14,29,17,1,8,31,62
+Spain,Thailand,1020,1020,4,19,15,6,15,40,39
+Spain,Vietnam,1011,1011,11,21,15,4,19,30,45
+Spain,India,1163,1163,13,26,11,5,13,32,58
+Spain,Singapore,1010,1010,14,37,11,3,9,26,68
+Spain,Italy,1002,1002,29,51,7,1,5,8,87
+Spain,Spain,1001,1001,86,12,1,0,1,0,98
+Spain,USA,1184,1177,32,33,5,3,10,17,79
+Spain,UAE,1027,1027,22,35,11,4,13,16,67
+Spain,Saudi Arabia,1009,1009,15,25,9,4,19,27,56
+Spain,Great Britain,1627,1627,27,45,11,2,5,10,80
+Spain,Germany,2038,2038,19,43,15,3,8,11,70
+Spain,France,1008,1008,45,36,6,2,4,6,87
+Spain,Denmark,1023,1024,25,45,18,2,5,5,74
+Spain,Sweden,1021,1016,35,44,8,2,7,4,82
+Spain,Finland,1002,1002,26,47,10,3,6,8,70
+Spain,Norway,583,583,34,38,7,2,8,11,81
+Great Britain,Australia,1020,1020,21,45,16,4,7,8,71
+Great Britain,China,1014,1014,5,17,14,6,11,47,43
+Great Britain,Hong Kong,1023,1023,8,47,23,5,7,10,61
+Great Britain,Indonesia,1024,1024,15,32,12,3,19,19,58
+Great Britain,Japan,1000,1000,2,11,14,5,28,40,20
+Great Britain,Malaysia,1003,1003,10,41,12,2,13,22,65
+Great Britain,Philippines,1019,1019,13,39,9,2,12,26,70
+Great Britain,Taiwan,1036,1036,8,26,21,3,11,32,50
+Great Britain,Thailand,1020,1020,5,24,14,7,15,35,44
+Great Britain,Vietnam,1011,1011,15,32,11,3,16,23,61
+Great Britain,India,1163,1163,20,33,11,4,10,23,68
+Great Britain,Singapore,1010,1010,16,50,12,2,6,14,76
+Great Britain,Italy,1002,1002,4,23,31,17,9,17,32
+Great Britain,Spain,1001,1001,4,17,33,20,8,18,26
+Great Britain,USA,1184,1177,8,26,14,4,16,31,49
+Great Britain,UAE,1027,1027,17,37,13,4,14,14,63
+Great Britain,Saudi Arabia,1009,1009,13,26,11,4,20,26,52
+Great Britain,Great Britain,1627,1627,50,40,5,2,2,1,91
+Great Britain,Germany,2038,2038,3,17,30,20,11,18,25
+Great Britain,France,1008,1008,4,19,26,25,7,17,28
+Great Britain,Denmark,1023,1024,4,21,48,8,11,9,27
+Great Britain,Sweden,1021,1016,5,28,33,19,10,5,35
+Great Britain,Finland,1002,1002,8,35,26,9,10,12,51
+Great Britain,Norway,583,583,9,31,26,11,12,11,45
+France,Australia,1020,1020,22,38,13,5,7,15,70
+France,China,1014,1014,10,27,11,3,9,41,63
+France,Hong Kong,1023,1023,16,49,16,3,5,11,73
+France,Indonesia,1024,1024,13,23,13,3,25,24,46
+France,Japan,1000,1000,13,47,12,2,14,13,68
+France,Malaysia,1003,1003,9,33,12,3,16,27,58
+France,Philippines,1019,1019,25,42,6,1,7,18,82
+France,Taiwan,1036,1036,21,37,15,2,7,18,71
+France,Thailand,1020,1020,10,37,14,5,10,24,62
+France,Vietnam,1011,1011,29,29,10,2,11,19,72
+France,India,1163,1163,20,31,10,4,9,26,70
+France,Singapore,1010,1010,20,48,10,2,6,14,79
+France,Italy,1002,1002,14,40,22,9,5,10,60
+France,Spain,1001,1001,19,46,19,3,6,8,70
+France,USA,1184,1177,18,33,8,4,12,25,69
+France,UAE,1027,1027,25,37,11,4,10,12,71
+France,Saudi Arabia,1009,1009,20,30,9,4,16,20,63
+France,Great Britain,1627,1627,21,39,17,6,5,11,68
+France,Germany,2038,2038,16,39,18,7,9,10,62
+France,France,1003,1003,86,10,1,1,2,1,96
+France,Denmark,1023,1024,24,40,20,4,6,6,68
+France,Sweden,1021,1016,32,42,10,4,6,5,79
+France,Finland,1002,1002,22,45,12,3,8,10,70
+France,Norway,583,583,28,38,9,4,10,12,74
+Germany,Australia,1020,1020,12,38,15,4,10,21,63
+Germany,China,1014,1014,6,17,12,4,12,49,45
+Germany,Hong Kong,1023,1023,9,47,19,3,7,14,65
+Germany,Indonesia,1024,1024,6,20,12,4,29,29,37
+Germany,Japan,1000,1000,5,27,11,1,25,31,46
+Germany,Malaysia,1003,1003,4,17,13,4,24,39,35
+Germany,Philippines,1019,1019,8,29,10,2,14,37,59
+Germany,Taiwan,1036,1036,10,36,19,1,8,26,62
+Germany,Thailand,1020,1020,7,31,13,6,12,31,54
+Germany,Vietnam,1011,1011,13,25,14,3,18,26,51
+Germany,India,1163,1163,11,19,11,4,16,39,49
+Germany,Singapore,1010,1010,9,37,13,3,9,29,64
+Germany,Italy,1002,1002,6,27,27,14,8,18,40
+Germany,Spain,1001,1001,6,29,29,7,10,19,43
+Germany,USA,1184,1177,16,29,11,5,12,27,63
+Germany,UAE,1027,1027,11,25,14,7,20,25,47
+Germany,Saudi Arabia,1009,1009,9,16,10,6,25,34,38
+Germany,Great Britain,1627,1627,7,32,21,5,12,24,51
+Germany,Germany,2038,2038,49,37,7,2,4,1,87
+Germany,France,1008,1008,9,30,20,7,10,23,51
+Germany,Denmark,1023,1024,6,29,46,8,6,5,37
+Germany,Sweden,1021,1016,13,40,23,7,10,6,57
+Germany,Finland,1002,1002,12,43,20,3,10,12,53
+Germany,Norway,583,583,11,34,21,3,18,14,52
+Italy,Australia,1020,1020,56,32,6,1,3,3,90
+Italy,China,1014,1014,8,26,12,3,9,42,59
+Italy,Hong Kong,1023,1023,23,52,12,2,4,7,81
+Italy,Indonesia,1024,1024,28,32,10,3,13,14,70
+Italy,Japan,1000,1000,31,46,4,1,8,10,85
+Italy,Malaysia,1003,1003,18,44,11,2,9,16,74
+Italy,Philippines,1019,1019,42,42,5,1,3,7,90
+Italy,Taiwan,1036,1036,31,44,13,2,2,8,81
+Italy,Thailand,1020,1020,16,42,13,5,7,16,69
+Italy,Vietnam,1011,1011,26,35,10,3,10,16,72
+Italy,India,1163,1163,34,33,8,3,6,16,80
+Italy,Singapore,1010,1010,39,44,7,2,2,7,89
+Italy,Italy,1002,1002,93,5,1,0,0,0,99
+Italy,Spain,1001,1001,51,42,4,1,1,1,94
+Italy,USA,1184,1177,59,21,4,2,5,9,88
+Italy,UAE,1027,1027,51,31,6,2,5,5,87
+Italy,Saudi Arabia,1009,1009,46,25,7,3,11,9,78
+Italy,Great Britain,1627,1627,55,32,6,1,2,4,91
+Italy,Germany,2038,2038,49,37,4,2,5,3,89
+Italy,France,1008,1008,70,19,2,2,3,4,93
+Italy,Denmark,1023,1024,50,33,9,1,4,3,86
+Italy,Sweden,1021,1016,60,30,3,1,4,2,92
+Italy,Finland,1002,1002,43,40,6,2,4,4,84
+Italy,Norway,583,583,50,26,6,2,8,8,83
+Denmark,Australia,1020,1020,8,18,9,2,18,44,47
+Denmark,China,1014,1014,5,9,13,5,13,54,32
+Denmark,Hong Kong,1023,1023,4,20,18,4,13,42,40
+Denmark,Indonesia,1024,1024,4,14,10,4,33,35,28
+Denmark,Japan,1000,1000,1,4,4,1,30,59,14
+Denmark,Malaysia,1003,1003,4,15,11,4,25,41,33
+Denmark,Philippines,1019,1019,5,24,9,2,17,44,51
+Denmark,Taiwan,1036,1036,5,16,16,1,13,49,39
+Denmark,Thailand,1020,1020,3,13,14,9,17,45,29
+Denmark,Vietnam,1011,1011,9,19,15,4,22,31,40
+Denmark,India,1163,1163,6,17,12,5,17,43,41
+Denmark,Singapore,1010,1010,4,22,10,3,15,46,48
+Denmark,Italy,1002,1002,2,10,12,6,19,52,25
+Denmark,Spain,1001,1001,2,8,13,4,20,54,20
+Denmark,USA,1184,1177,6,14,6,3,21,50,41
+Denmark,UAE,1027,1027,9,18,14,6,23,30,39
+Denmark,Saudi Arabia,1009,1009,4,14,9,8,27,38,29
+Denmark,Great Britain,1627,1627,4,18,8,2,21,47,42
+Denmark,Germany,2038,2038,3,18,13,4,21,40,36
+Denmark,France,1008,1008,4,13,11,4,16,52,35
+Denmark,Denmark,1023,1024,46,37,10,2,3,1,85
+Denmark,Sweden,1021,1016,16,41,16,5,14,8,62
+Denmark,Finland,1002,1002,9,35,14,2,18,22,44
+Denmark,Norway,583,583,24,36,14,3,13,10,67
+Norway,Australia,1020,1020,6,13,8,3,20,51,39
+Norway,China,1014,1014,4,10,12,5,14,55,31
+Norway,Hong Kong,1023,1023,4,20,16,5,13,42,42
+Norway,Indonesia,1024,1024,4,11,10,4,36,35,23
+Norway,Japan,1000,1000,1,5,4,1,29,60,17
+Norway,Malaysia,1003,1003,4,14,12,3,25,42,31
+Norway,Philippines,1019,1019,4,21,9,2,17,46,47
+Norway,Taiwan,1036,1036,5,15,16,1,12,50,41
+Norway,Thailand,1020,1020,3,13,13,7,19,45,30
+Norway,Vietnam,1011,1011,7,18,16,4,23,32,36
+Norway,India,1163,1163,6,15,12,5,18,45,38
+Norway,Singapore,1010,1010,3,21,9,3,15,49,48
+Norway,Italy,1002,1002,2,11,11,6,18,53,27
+Norway,Spain,1001,1001,2,11,13,4,19,50,27
+Norway,USA,1184,1177,6,13,6,2,21,51,38
+Norway,UAE,1027,1027,9,19,11,6,23,33,41
+Norway,Saudi Arabia,1009,1009,5,11,10,5,29,39,26
+Norway,Great Britain,1627,1627,3,11,8,3,20,55,31
+Norway,Germany,2038,2038,3,15,12,4,21,44,33
+Norway,France,1008,1008,5,15,11,4,15,50,40
+Norway,Denmark,1023,1024,4,16,31,7,17,25,27
+Norway,Sweden,1021,1016,8,27,21,9,20,16,41
+Norway,Finland,1002,1002,9,32,17,3,18,22,39
+Norway,Norway,583,583,45,34,8,4,6,3,81
+Finland,Australia,1020,1020,5,12,8,3,19,53,37
+Finland,China,1014,1014,4,9,13,5,14,55,30
+Finland,Hong Kong,1023,1023,3,18,18,4,13,42,38
+Finland,Indonesia,1024,1024,4,10,12,4,34,36,23
+Finland,Japan,1000,1000,1,4,4,1,28,61,14
+Finland,Malaysia,1003,1003,3,12,12,4,27,42,26
+Finland,Philippines,1019,1019,4,21,9,2,17,47,47
+Finland,Taiwan,1036,1036,4,11,16,1,13,54,33
+Finland,Thailand,1020,1020,2,11,13,7,19,47,26
+Finland,Vietnam,1011,1011,8,19,14,3,24,32,39
+Finland,India,1163,1163,7,15,12,5,17,44,39
+Finland,Singapore,1010,1010,2,15,10,3,15,56,37
+Finland,Italy,1002,1002,2,9,9,6,19,54,24
+Finland,Spain,1001,1001,2,6,12,5,19,56,18
+Finland,USA,1184,1177,4,9,6,4,25,54,27
+Finland,UAE,1027,1027,7,17,12,6,25,33,35
+Finland,Saudi Arabia,1009,1009,4,12,8,6,31,39,26
+Finland,Great Britain,1627,1627,2,8,8,3,22,58,23
+Finland,Germany,2038,2038,2,12,12,5,22,47,26
+Finland,France,1008,1008,3,12,11,3,16,55,33
+Finland,Denmark,1023,1024,2,5,17,5,23,48,13
+Finland,Sweden,1021,1016,8,21,20,10,21,20,36
+Finland,Finland,1002,1002,63,30,4,1,1,0,35
+Finland,Norway,583,583,5,12,14,4,26,39,28
+Sweden,Australia,1020,1020,6,19,7,3,19,46,47
+Sweden,China,1014,1014,4,12,12,6,14,53,34
+Sweden,Hong Kong,1023,1023,6,27,19,3,13,33,48
+Sweden,Indonesia,1024,1024,5,13,11,3,34,34,27
+Sweden,Japan,1000,1000,2,6,5,1,29,57,18
+Sweden,Malaysia,1003,1003,5,18,12,3,24,38,36
+Sweden,Philippines,1019,1019,6,22,10,2,16,44,50
+Sweden,Taiwan,1036,1036,7,20,16,1,12,43,49
+Sweden,Thailand,1020,1020,2,14,15,7,18,44,29
+Sweden,Vietnam,1011,1011,9,19,15,4,22,31,40
+Sweden,India,1163,1163,10,19,11,4,16,40,48
+Sweden,Singapore,1010,1010,6,35,12,2,11,34,63
+Sweden,Italy,1002,1002,3,16,14,7,17,43,33
+Sweden,Spain,1001,1001,3,13,15,4,19,47,30
+Sweden,USA,1184,1177,6,22,6,3,21,42,48
+Sweden,UAE,1027,1027,10,22,12,5,23,28,44
+Sweden,Saudi Arabia,1009,1009,8,15,11,5,28,33,35
+Sweden,Great Britain,1627,1627,4,23,9,3,19,42,47
+Sweden,Germany,2038,2038,4,24,14,5,19,34,42
+Sweden,France,1008,1008,5,16,12,4,14,49,41
+Sweden,Denmark,1023,1024,4,21,40,7,14,14,29
+Sweden,Sweden,1021,1016,62,30,4,1,3,1,92
+Sweden,Finland,1002,1002,16,47,16,4,10,6,46
+Sweden,Norway,583,583,15,41,19,4,12,9,62
+Greece,Australia,1020,1020,27,42,11,3,6,11,77
+Greece,China,1014,1014,4,11,12,4,14,55,32
+Greece,Hong Kong,1023,1023,5,26,19,5,11,36,47
+Greece,Indonesia,1024,1024,3,15,12,4,33,33,27
+Greece,Japan,1000,1000,2,8,5,1,30,55,22
+Greece,Malaysia,1003,1003,4,15,12,3,26,41,31
+Greece,Philippines,1019,1019,8,28,11,3,14,37,57
+Greece,Taiwan,1036,1036,6,20,16,1,11,46,48
+Greece,Thailand,1020,1020,1,11,14,9,17,48,23
+Greece,Vietnam,1011,1011,7,15,17,5,24,31,32
+Greece,India,1163,1163,9,19,12,5,17,39,46
+Greece,Singapore,1010,1010,6,24,14,6,12,38,49
+Greece,Italy,1002,1002,17,39,13,3,7,20,71
+Greece,Spain,1001,1001,13,34,15,4,10,24,62
+Greece,USA,1184,1177,23,30,9,5,10,24,69
+Greece,UAE,1027,1027,14,28,12,6,17,22,55
+Greece,Saudi Arabia,1009,1009,13,23,9,4,22,28,51
+Greece,Great Britain,1627,1627,24,38,12,4,6,17,74
+Greece,Germany,2038,2038,33,42,10,4,6,6,79
+Greece,France,1008,1008,28,33,10,3,7,19,75
+Greece,Denmark,1023,1024,24,40,20,4,5,7,69
+Greece,Sweden,1021,1016,44,38,7,2,5,3,85
+Greece,Finland,1002,1002,29,43,12,3,6,8,59
+Greece,Norway,583,583,35,32,11,3,8,11,75
+Turkey,Australia,1020,1020,20,30,9,3,8,28,71
+Turkey,China,1014,1014,6,17,11,5,10,51,47
+Turkey,Hong Kong,1023,1023,4,27,21,7,9,33,45
+Turkey,Indonesia,1024,1024,19,33,9,3,16,19,65
+Turkey,Japan,1000,1000,4,16,6,1,24,49,39
+Turkey,Malaysia,1003,1003,9,33,13,3,13,29,58
+Turkey,Philippines,1019,1019,8,31,11,4,10,36,61
+Turkey,Taiwan,1036,1036,7,21,19,2,9,42,49
+Turkey,Thailand,1020,1020,3,15,15,10,13,45,32
+Turkey,Vietnam,1011,1011,10,22,17,5,15,31,47
+Turkey,India,1163,1163,13,24,10,6,12,35,56
+Turkey,Singapore,1010,1010,13,33,17,4,7,26,63
+Turkey,Italy,1002,1002,8,20,12,7,11,43,47
+Turkey,Spain,1001,1001,11,29,18,7,10,25,53
+Turkey,USA,1184,1177,8,13,5,5,17,53,43
+Turkey,UAE,1027,1027,36,34,10,3,7,9,77
+Turkey,Saudi Arabia,1009,1009,54,26,5,2,7,6,85
+Turkey,Great Britain,1627,1627,14,31,9,4,9,33,67
+Turkey,Germany,2038,2038,16,40,14,9,8,13,64
+Turkey,France,1008,1008,15,30,12,8,8,27,62
+Turkey,Denmark,1023,1024,10,30,21,8,11,20,50
+Turkey,Sweden,1021,1016,17,39,12,6,12,14,65
+Turkey,Finland,1002,1002,15,42,13,6,8,15,59
+Turkey,Norway,583,583,17,31,10,7,13,21,62
+Morocco,Australia,1020,1020,15,28,9,3,12,33,65
+Morocco,China,1014,1014,4,10,11,5,12,58,34
+Morocco,Hong Kong,1023,1023,4,18,17,7,10,45,38
+Morocco,Indonesia,1024,1024,8,19,12,4,27,31,39
+Morocco,Japan,1000,1000,1,4,3,1,22,68,16
+Morocco,Malaysia,1003,1003,6,22,12,3,19,37,45
+Morocco,Philippines,1019,1019,5,22,10,4,14,45,50
+Morocco,Taiwan,1036,1036,5,14,13,2,9,56,44
+Morocco,Thailand,1020,1020,2,10,13,9,14,51,25
+Morocco,Vietnam,1011,1011,5,10,19,6,20,39,26
+Morocco,India,1163,1163,10,20,11,5,14,42,50
+Morocco,Singapore,1010,1010,7,18,11,4,11,49,49
+Morocco,Italy,1002,1002,8,24,15,9,9,36,50
+Morocco,Spain,1001,1001,12,30,19,10,8,20,53
+Morocco,USA,1184,1177,8,16,5,5,17,49,47
+Morocco,UAE,1027,1027,21,33,16,5,11,14,63
+Morocco,Saudi Arabia,1009,1009,23,35,12,6,12,12,67
+Morocco,Great Britain,1627,1627,12,30,9,4,9,36,66
+Morocco,Germany,2038,2038,6,19,11,10,14,40,42
+Morocco,France,1008,1008,33,38,7,5,5,11,81
+Morocco,Denmark,1023,1024,8,20,12,9,15,36,44
+Morocco,Sweden,1021,1016,11,25,9,7,18,30,51
+Morocco,Finland,1002,1002,10,22,14,6,13,35,50
+Morocco,Norway,583,583,10,20,8,7,18,38,48
+Lebanon,Australia,1020,1020,22,33,10,4,8,23,71
+Lebanon,China,1014,1014,4,9,12,6,12,58,31
+Lebanon,Hong Kong,1023,1023,3,14,18,7,11,47,31
+Lebanon,Indonesia,1024,1024,6,15,13,3,30,32,32
+Lebanon,Japan,1000,1000,1,2,3,1,22,71,13
+Lebanon,Malaysia,1003,1003,5,22,13,4,19,36,43
+Lebanon,Philippines,1019,1019,4,18,13,6,13,46,40
+Lebanon,Taiwan,1036,1036,4,10,14,2,11,59,35
+Lebanon,Thailand,1020,1020,2,8,12,11,15,52,22
+Lebanon,Vietnam,1011,1011,5,11,18,7,21,39,26
+Lebanon,India,1163,1163,15,21,11,6,13,34,54
+Lebanon,Singapore,1010,1010,7,19,10,5,10,50,50
+Lebanon,Italy,1002,1002,6,15,9,6,12,52,45
+Lebanon,Spain,1001,1001,8,16,12,6,14,44,43
+Lebanon,USA,1184,1177,9,14,5,5,16,51,47
+Lebanon,UAE,1027,1027,44,34,9,3,5,5,82
+Lebanon,Saudi Arabia,1009,1009,54,27,5,2,8,5,84
+Lebanon,Great Britain,1627,1627,10,19,5,4,12,50,58
+Lebanon,Germany,2038,2038,6,13,10,10,16,45,35
+Lebanon,France,1008,1008,20,27,9,7,7,29,67
+Lebanon,Denmark,1023,1024,7,15,10,8,17,43,39
+Lebanon,Sweden,1021,1016,24,30,9,7,11,20,67
+Lebanon,Finland,1002,1002,9,15,13,7,13,44,50
+Lebanon,Norway,583,583,11,17,6,6,18,42,48
+Saudi Arabia,Australia,1020,1020,7,12,7,4,17,52,41
+Saudi Arabia,China,1014,1014,4,9,11,6,13,58,31
+Saudi Arabia,Hong Kong,1023,1023,2,13,18,8,10,48,30
+Saudi Arabia,Indonesia,1024,1024,18,34,13,3,14,18,64
+Saudi Arabia,Japan,1000,1000,1,2,3,1,23,70,11
+Saudi Arabia,Malaysia,1003,1003,10,41,12,4,10,22,66
+Saudi Arabia,Philippines,1019,1019,6,23,15,7,11,38,47
+Saudi Arabia,Taiwan,1036,1036,4,10,15,4,10,57,33
+Saudi Arabia,Thailand,1020,1020,2,8,13,12,13,50,22
+Saudi Arabia,Vietnam,1011,1011,5,12,19,6,19,39,28
+Saudi Arabia,India,1163,1163,15,25,10,5,11,33,60
+Saudi Arabia,Singapore,1010,1010,6,15,12,4,12,51,42
+Saudi Arabia,Italy,1002,1002,3,7,10,7,14,59,25
+Saudi Arabia,Spain,1001,1001,3,11,9,7,18,52,28
+Saudi Arabia,USA,1184,1177,3,7,6,5,20,59,24
+Saudi Arabia,UAE,1027,1027,26,37,16,6,8,7,67
+Saudi Arabia,Saudi Arabia,1009,1009,62,25,6,2,3,2,89
+Saudi Arabia,Great Britain,1627,1627,1,5,5,4,18,67,18
+Saudi Arabia,Germany,2038,2038,4,8,10,10,17,51,24
+Saudi Arabia,France,1008,1008,4,8,7,9,14,58,29
+Saudi Arabia,Denmark,1023,1024,3,7,9,8,19,54,22
+Saudi Arabia,Sweden,1021,1016,2,9,7,7,24,51,22
+Saudi Arabia,Finland,1002,1002,2,8,11,8,18,53,42
+Saudi Arabia,Norway,583,583,3,6,4,6,25,56,20
+UAE,Australia,1020,1020,8,12,7,4,15,53,43
+UAE,China,1014,1014,4,8,13,5,12,57,29
+UAE,Hong Kong,1023,1023,2,13,19,8,10,48,28
+UAE,Indonesia,1024,1024,13,26,13,3,19,25,53
+UAE,Japan,1000,1000,1,3,3,1,23,68,14
+UAE,Malaysia,1003,1003,6,28,13,3,17,33,51
+UAE,Philippines,1019,1019,6,24,13,5,11,41,51
+UAE,Taiwan,1036,1036,6,17,15,2,7,54,48
+UAE,Thailand,1020,1020,3,12,11,11,14,48,29
+UAE,Vietnam,1011,1011,12,21,17,3,14,32,49
+UAE,India,1163,1163,18,25,10,4,11,33,63
+UAE,Singapore,1010,1010,5,15,11,4,12,52,43
+UAE,Italy,1002,1002,3,7,9,7,15,59,24
+UAE,Spain,1001,1001,3,10,9,7,18,53,27
+UAE,USA,1184,1177,3,6,4,6,20,60,23
+UAE,UAE,1027,1027,45,37,9,3,4,3,84
+UAE,Saudi Arabia,1009,1009,27,35,9,4,13,12,71
+UAE,Great Britain,1627,1627,2,6,5,4,18,65,23
+UAE,Germany,2038,2038,4,10,9,11,17,50,27
+UAE,France,1008,1008,4,9,8,8,14,57,30
+UAE,Denmark,1023,1024,2,6,8,9,20,55,18
+UAE,Sweden,1021,1016,3,8,7,6,25,50,22
+UAE,Finland,1002,1002,2,8,11,7,18,54,42
+UAE,Norway,583,583,4,7,4,7,23,55,24
+India,Australia,1020,1020,35,35,14,8,3,5,74
+India,China,1014,1014,4,11,20,14,9,42,26
+India,Hong Kong,1023,1023,7,36,32,9,6,10,48
+India,Indonesia,1024,1024,11,28,19,6,16,20,49
+India,Japan,1000,1000,9,40,11,3,16,22,63
+India,Malaysia,1003,1003,17,47,18,4,5,9,70
+India,Philippines,1019,1019,11,33,19,8,8,21,55
+India,Taiwan,1036,1036,13,37,24,5,4,16,60
+India,Thailand,1020,1020,3,18,28,18,8,24,27
+India,Vietnam,1011,1011,10,23,20,9,12,26,44
+India,India,1163,1163,81,10,2,1,3,3,93
+India,Singapore,1010,1010,26,49,17,5,2,1,77
+India,Italy,1002,1002,11,27,13,9,7,33,57
+India,Spain,1001,1001,12,26,18,9,8,27,52
+India,USA,1184,1177,19,19,12,9,11,31,55
+India,UAE,1027,1027,37,31,13,10,5,5,71
+India,Saudi Arabia,1009,1009,38,30,9,5,8,10,76
+India,Great Britain,1762,1762,46,33,7,6,2,7,84
+India,Germany,2040,2040,17,33,16,8,7,20,62
+India,France,1011,1011,27,26,11,6,5,25,71
+India,Denmark,1007,1007,23,35,12,4,12,15,67
+India,Sweden,1006,1006,25,37,17,8,6,7,67
+India,Finland,1005,1005,26,33,10,5,9,16,64
+India,Norway,732,732,32,36,11,5,7,10,75
+China,Australia,1020,1020,49,36,8,3,2,2,86
+China,China,1014,1014,71,21,3,1,1,3,95
+China,Hong Kong,1023,1023,44,47,6,1,2,0,91
+China,Indonesia,1024,1024,19,27,14,4,17,19,57
+China,Japan,1000,1000,34,51,5,1,5,4,88
+China,Malaysia,1003,1003,31,37,15,3,6,9,74
+China,Philippines,1019,1019,43,41,7,2,2,5,88
+China,Taiwan,1036,1036,44,40,10,2,1,3,87
+China,Thailand,1020,1020,26,48,12,3,3,7,80
+China,Vietnam,1011,1011,30,37,14,5,5,8,73
+China,India,1163,1163,33,35,10,4,6,11,77
+China,Singapore,1010,1010,59,33,4,1,1,2,94
+China,Italy,1002,1002,21,33,17,13,3,13,62
+China,Spain,1001,1001,27,41,17,8,3,5,71
+China,USA,1184,1177,42,32,5,3,5,13,84
+China,UAE,1027,1027,30,32,10,10,8,11,69
+China,Saudi Arabia,1009,1009,16,27,11,12,14,20,54
+China,Great Britain,1762,1762,43,39,8,3,2,5,86
+China,Germany,2040,2040,30,42,11,6,3,7,78
+China,France,1011,1011,39,31,8,7,3,12,80
+China,Denmark,1007,1007,24,42,11,4,9,10,73
+China,Sweden,1006,1006,26,45,15,4,6,5,74
+China,Finland,1005,1005,34,39,8,3,6,10,79
+China,Norway,732,732,27,43,11,3,7,9,77
+Thailand,Australia,1020,1020,45,34,8,3,3,7,85
+Thailand,China,1014,1014,7,23,20,9,9,32,44
+Thailand,Hong Kong,1023,1023,30,52,12,2,2,2,84
+Thailand,Indonesia,1024,1024,14,27,16,5,18,19,51
+Thailand,Japan,1000,1000,8,27,16,5,17,27,48
+Thailand,Malaysia,1003,1003,47,40,5,1,3,4,91
+Thailand,Philippines,1019,1019,24,38,10,3,6,19,76
+Thailand,Taiwan,1036,1036,30,41,16,3,2,6,76
+Thailand,Thailand,1020,1020,90,8,1,0,0,0,98
+Thailand,Vietnam,1011,1011,24,39,14,2,5,16,75
+Thailand,India,1163,1163,18,32,12,6,8,24,65
+Thailand,Singapore,1010,1010,53,36,7,1,1,2,91
+Thailand,Italy,1002,1002,8,18,8,6,10,50,52
+Thailand,Spain,1001,1001,12,23,11,6,11,38,56
+Thailand,USA,1184,1177,25,23,7,5,11,29,68
+Thailand,UAE,1027,1027,20,30,14,9,10,17,61
+Thailand,Saudi Arabia,1009,1009,7,14,11,14,21,34,31
+Thailand,Great Britain,1762,1762,26,31,8,5,6,25,75
+Thailand,Germany,2040,2040,19,33,11,6,7,24,68
+Thailand,France,1011,1011,24,21,6,5,8,36,70
+Thailand,Denmark,1007,1007,28,33,6,4,12,17,73
+Thailand,Sweden,1006,1006,36,37,10,4,6,6,78
+Thailand,Finland,1005,1005,30,36,8,4,8,15,72
+Thailand,Norway,732,732,27,37,9,5,8,14,74
+Malaysia,Australia,1020,1020,25,36,9,2,9,19,76
+Malaysia,China,1014,1014,5,16,15,6,10,48,41
+Malaysia,Hong Kong,1023,1023,10,50,21,3,6,10,67
+Malaysia,Indonesia,1024,1024,19,37,13,4,13,15,66
+Malaysia,Japan,1000,1000,2,9,6,2,26,55,25
+Malaysia,Malaysia,1003,1003,83,14,1,0,1,1,97
+Malaysia,Philippines,1019,1019,11,35,11,3,11,29,65
+Malaysia,Taiwan,1036,1036,11,34,20,2,7,27,61
+Malaysia,Thailand,1020,1020,3,21,23,10,13,30,34
+Malaysia,Vietnam,1011,1011,9,23,20,5,14,29,44
+Malaysia,India,1163,1163,11,24,11,5,12,36,56
+Malaysia,Singapore,1010,1010,52,38,6,1,2,1,91
+Malaysia,Italy,1002,1002,1,6,8,5,14,66,21
+Malaysia,Spain,1001,1001,2,8,9,6,17,59,24
+Malaysia,USA,1184,1177,6,9,5,4,22,54,34
+Malaysia,UAE,1027,1027,10,29,14,8,14,25,52
+Malaysia,Saudi Arabia,1009,1009,8,16,11,9,21,34,37
+Malaysia,Great Britain,1762,1762,7,19,4,2,13,55,58
+Malaysia,Germany,2040,2040,4,12,10,6,15,54,34
+Malaysia,France,1011,1011,4,8,5,5,12,66,35
+Malaysia,Denmark,1007,1007,6,12,4,3,31,43,32
+Malaysia,Sweden,1006,1006,5,12,6,3,31,43,30
+Malaysia,Finland,1005,1005,6,15,5,3,23,48,53
+Malaysia,Norway,732,732,5,12,5,4,23,51,35
+Vietnam,Australia,1020,1020,30,33,10,4,6,17,75
+Vietnam,China,1014,1014,4,16,18,8,9,45,37
+Vietnam,Hong Kong,1023,1023,18,55,17,2,3,4,77
+Vietnam,Indonesia,1024,1024,6,19,15,6,26,28,34
+Vietnam,Japan,1000,1000,5,22,12,3,19,38,44
+Vietnam,Malaysia,1003,1003,9,26,20,6,16,23,45
+Vietnam,Philippines,1019,1019,13,34,11,2,11,28,66
+Vietnam,Taiwan,1036,1036,15,41,24,5,4,12,63
+Vietnam,Thailand,1020,1020,13,42,16,6,7,17,67
+Vietnam,Vietnam,1011,1011,79,16,2,1,1,2,96
+Vietnam,India,1163,1163,7,17,12,7,15,43,42
+Vietnam,Singapore,1010,1010,17,43,20,5,5,10,67
+Vietnam,Italy,1002,1002,5,11,8,7,13,57,36
+Vietnam,Spain,1001,1001,5,15,10,6,15,50,38
+Vietnam,USA,1184,1177,14,21,5,4,15,40,59
+Vietnam,UAE,1027,1027,8,19,15,11,18,29,39
+Vietnam,Saudi Arabia,1009,1009,2,8,11,13,25,41,18
+Vietnam,Great Britain,1762,1762,8,15,3,3,14,56,53
+Vietnam,Germany,2040,2040,11,25,10,7,10,36,57
+Vietnam,France,1011,1011,28,23,6,5,7,31,74
+Vietnam,Denmark,1007,1007,17,28,6,3,18,26,63
+Vietnam,Sweden,1006,1006,13,26,7,4,22,28,54
+Vietnam,Finland,1005,1005,12,24,7,4,18,35,57
+Vietnam,Norway,732,732,11,25,7,3,18,35,56
+Singapore,Australia,1020,1020,24,34,7,2,10,22,75
+Singapore,China,1014,1014,8,22,12,5,8,44,54
+Singapore,Hong Kong,1023,1023,12,53,16,3,6,10,73
+Singapore,Indonesia,1024,1024,14,31,12,3,20,20,55
+Singapore,Japan,1000,1000,3,13,7,2,25,49,33
+Singapore,Malaysia,1003,1003,18,46,11,2,9,14,74
+Singapore,Philippines,1019,1019,17,36,9,2,9,27,72
+Singapore,Taiwan,1036,1036,14,37,16,2,5,26,68
+Singapore,Thailand,1020,1020,7,29,17,5,12,29,52
+Singapore,Vietnam,1011,1011,19,29,14,3,11,25,64
+Singapore,India,1163,1163,15,27,9,5,11,33,62
+Singapore,Singapore,1010,1010,72,23,3,1,1,0,96
+Singapore,Italy,1002,1002,3,8,8,5,14,62,29
+Singapore,Spain,1001,1001,3,9,8,5,17,58,27
+Singapore,USA,1184,1177,6,9,4,4,22,56,34
+Singapore,UAE,1027,1027,12,28,14,7,14,25,53
+Singapore,Saudi Arabia,1009,1009,4,12,11,9,25,39,26
+Singapore,Great Britain,1762,1762,9,15,3,2,15,56,55
+Singapore,Germany,2040,2040,3,11,8,6,15,56,33
+Singapore,France,1011,1011,4,6,4,5,13,68,31
+Singapore,Denmark,1007,1007,7,9,4,3,32,45,29
+Singapore,Sweden,1006,1006,5,8,5,3,33,47,24
+Singapore,Finland,1005,1005,5,10,6,3,24,52,54
+Singapore,Norway,732,732,4,12,4,2,25,53,34
+Hong Kong,Australia,1020,1020,20,29,8,2,13,28,68
+Hong Kong,China,1014,1014,17,33,12,4,8,26,68
+Hong Kong,Hong Kong,1023,1023,51,41,5,1,1,1,93
+Hong Kong,Indonesia,1024,1024,12,23,12,5,23,24,47
+Hong Kong,Japan,1000,1000,7,26,6,2,23,36,53
+Hong Kong,Malaysia,1003,1003,17,23,16,4,15,25,54
+Hong Kong,Philippines,1019,1019,24,39,8,1,6,21,80
+Hong Kong,Taiwan,1036,1036,29,41,16,1,2,9,78
+Hong Kong,Thailand,1020,1020,14,39,13,4,8,22,68
+Hong Kong,Vietnam,1011,1011,22,32,14,3,9,20,68
+Hong Kong,India,1163,1163,10,22,11,6,13,38,51
+Hong Kong,Singapore,1010,1010,48,35,5,1,2,8,91
+Hong Kong,Italy,1002,1002,3,12,8,6,14,57,35
+Hong Kong,Spain,1001,1001,6,13,11,6,15,48,38
+Hong Kong,USA,1184,1177,12,14,4,3,18,49,50
+Hong Kong,UAE,1027,1027,13,20,14,11,16,26,45
+Hong Kong,Saudi Arabia,1009,1009,5,9,10,11,26,40,22
+Hong Kong,Great Britain,1762,1762,11,18,4,2,13,52,60
+Hong Kong,Germany,2040,2040,5,14,9,6,15,51,39
+Hong Kong,France,1011,1011,6,11,4,6,12,62,44
+Hong Kong,Denmark,1007,1007,7,12,5,3,31,42,33
+Hong Kong,Sweden,1006,1006,6,11,5,2,34,42,29
+Hong Kong,Finland,1005,1005,5,13,4,3,23,51,57
+Hong Kong,Norway,732,732,6,13,6,2,25,48,37
+ROK,Australia,1020,1020,18,31,12,3,10,27,66
+ROK,China,1014,1014,10,30,24,8,6,23,52
+ROK,Hong Kong,1023,1023,23,54,17,3,2,2,78
+ROK,Indonesia,1024,1024,23,32,16,4,13,13,63
+ROK,Japan,1000,1000,16,44,16,6,9,10,66
+ROK,Malaysia,1003,1003,22,37,19,4,7,11,66
+ROK,Philippines,1019,1019,37,46,8,1,3,4,87
+ROK,Taiwan,1036,1036,31,41,20,3,2,4,74
+ROK,Thailand,1020,1020,24,47,13,3,4,8,78
+ROK,Vietnam,1011,1011,38,38,11,2,4,6,81
+ROK,India,1163,1163,8,17,13,8,14,41,42
+ROK,Singapore,1010,1010,42,41,10,3,1,3,86
+ROK,Italy,1002,1002,3,10,9,6,12,60,32
+ROK,Spain,1001,1001,4,14,12,6,14,50,36
+ROK,USA,1184,1177,14,22,7,5,14,38,58
+ROK,UAE,1027,1027,19,19,12,12,14,24,50
+ROK,Saudi Arabia,1009,1009,8,12,12,13,23,32,29
+ROK,Great Britain,1762,1762,6,11,4,3,16,60,43
+ROK,Germany,2040,2040,7,18,11,7,12,45,45
+ROK,France,1011,1011,8,11,6,5,12,58,45
+ROK,Denmark,1007,1007,7,12,6,4,30,40,32
+ROK,Sweden,1006,1006,11,22,7,4,25,31,48
+ROK,Finland,1005,1005,7,18,6,4,21,45,60
+ROK,Norway,732,732,7,16,7,3,21,46,43
+Philippines,Australia,1020,1020,12,23,11,3,14,37,56
+Philippines,China,1014,1014,3,11,16,9,10,50,29
+Philippines,Hong Kong,1023,1023,3,19,33,13,8,24,29
+Philippines,Indonesia,1024,1024,5,16,15,5,29,30,29
+Philippines,Japan,1000,1000,2,8,8,3,27,53,21
+Philippines,Malaysia,1003,1003,4,18,20,7,19,33,33
+Philippines,Philippines,1019,1019,87,10,2,0,1,0,97
+Philippines,Taiwan,1036,1036,4,17,23,6,9,40,35
+Philippines,Thailand,1020,1020,2,13,18,10,16,41,25
+Philippines,Vietnam,1011,1011,8,18,21,6,14,33,38
+Philippines,India,1163,1163,6,16,12,7,15,44,39
+Philippines,Singapore,1010,1010,5,26,24,10,11,24,41
+Philippines,Italy,1002,1002,2,8,9,5,14,62,25
+Philippines,Spain,1001,1001,2,10,10,5,18,55,26
+Philippines,USA,1184,1177,9,14,5,5,18,48,45
+Philippines,UAE,1027,1027,26,13,14,17,10,20,48
+Philippines,Saudi Arabia,1009,1009,5,12,12,18,20,32,25
+Philippines,Great Britain,1762,1762,3,7,4,2,18,67,29
+Philippines,Germany,2040,2040,4,13,8,6,14,54,38
+Philippines,France,1011,1011,3,7,4,4,14,67,31
+Philippines,Denmark,1007,1007,5,12,5,4,30,45,30
+Philippines,Sweden,1006,1006,4,10,6,4,31,44,25
+Philippines,Finland,1005,1005,4,14,5,3,23,50,39
+Philippines,Norway,732,732,6,15,7,3,21,47,40
+Indonesia,Australia,1020,1020,22,32,10,3,10,24,71
+Indonesia,China,1014,1014,4,12,14,10,11,49,31
+Indonesia,Hong Kong,1023,1023,6,33,31,8,8,14,46
+Indonesia,Indonesia,1024,1024,92,4,1,1,2,1,97
+Indonesia,Japan,1000,1000,3,13,7,2,25,50,32
+Indonesia,Malaysia,1003,1003,22,52,12,3,4,7,80
+Indonesia,Philippines,1019,1019,8,33,14,3,10,31,59
+Indonesia,Taiwan,1036,1036,7,29,25,5,8,27,49
+Indonesia,Thailand,1020,1020,2,14,19,11,14,39,26
+Indonesia,Vietnam,1011,1011,8,19,21,6,14,31,39
+Indonesia,India,1163,1163,9,21,13,5,14,40,48
+Indonesia,Singapore,1010,1010,33,47,12,2,2,4,84
+Indonesia,Italy,1002,1002,4,11,7,7,13,58,35
+Indonesia,Spain,1001,1001,4,11,9,5,16,55,34
+Indonesia,USA,1184,1177,7,11,5,4,20,53,39
+Indonesia,UAE,1027,1027,10,24,15,9,14,27,47
+Indonesia,Saudi Arabia,1009,1009,12,22,12,10,17,27,46
+Indonesia,Great Britain,1762,1762,8,14,3,2,14,59,54
+Indonesia,Germany,2040,2040,7,20,9,6,12,44,50
+Indonesia,France,1011,1011,9,9,5,6,12,58,44
+Indonesia,Denmark,1007,1007,9,19,5,3,27,37,44
+Indonesia,Sweden,1006,1006,8,21,8,3,26,34,44
+Indonesia,Finland,1005,1005,6,17,5,4,22,45,53
+Indonesia,Norway,732,732,7,16,8,3,20,46,43
+Taiwan,Australia,1020,1020,14,24,9,2,15,36,59
+Taiwan,China,1014,1014,13,33,14,4,7,29,64
+Taiwan,Hong Kong,1023,1023,32,54,9,1,2,2,88
+Taiwan,Indonesia,1024,1024,10,20,14,5,25,25,40
+Taiwan,Japan,1000,1000,14,35,8,2,15,26,66
+Taiwan,Malaysia,1003,1003,14,21,15,6,17,28,49
+Taiwan,Philippines,1019,1019,16,34,11,2,11,26,68
+Taiwan,Taiwan,1036,1036,75,20,3,0,0,1,96
+Taiwan,Thailand,1020,1020,10,29,17,5,11,29,54
+Taiwan,Vietnam,1011,1011,18,31,16,4,10,21,62
+Taiwan,India,1163,1163,8,16,12,6,15,43,42
+Taiwan,Singapore,1010,1010,42,37,7,1,3,10,87
+Taiwan,Italy,1002,1002,3,8,7,5,13,63,32
+Taiwan,Spain,1001,1001,5,12,10,6,15,52,36
+Taiwan,USA,1184,1177,8,15,5,3,18,50,48
+Taiwan,UAE,1027,1027,11,19,15,10,16,29,42
+Taiwan,Saudi Arabia,1009,1009,5,10,10,12,24,38,24
+Taiwan,Great Britain,1762,1762,4,9,3,2,17,64,37
+Taiwan,Germany,2040,2040,4,16,9,7,13,51,41
+Taiwan,France,1011,1011,7,11,4,5,12,61,46
+Taiwan,Denmark,1007,1007,6,9,5,3,31,46,28
+Taiwan,Sweden,1006,1006,5,8,5,3,32,46,25
+Taiwan,Finland,1005,1005,6,13,6,3,23,49,55
+Taiwan,Norway,732,732,4,11,6,3,24,52,31
+Australia,Australia,1020,1020,52,35,7,1,3,2,89
+Australia,China,1014,1014,5,16,13,7,10,50,41
+Australia,Hong Kong,1023,1023,8,37,20,3,9,24,58
+Australia,Indonesia,1024,1024,9,20,13,4,26,27,41
+Australia,Japan,1000,1000,2,11,6,1,26,54,28
+Australia,Malaysia,1003,1003,9,29,12,3,17,30,54
+Australia,Philippines,1019,1019,15,36,6,1,11,31,74
+Australia,Taiwan,1036,1036,7,21,18,2,9,43,49
+Australia,Thailand,1020,1020,6,25,14,5,14,36,48
+Australia,Vietnam,1011,1011,13,26,12,3,14,31,57
+Australia,India,1163,1163,13,25,10,4,13,36,59
+Australia,Singapore,1010,1010,14,46,11,1,8,19,74
+Australia,Italy,1002,1002,2,12,7,5,15,59,35
+Australia,Spain,1001,1001,3,8,9,4,18,58,27
+Australia,USA,1184,1177,7,13,3,3,21,53,43
+Australia,UAE,1027,1027,12,24,12,7,16,29,52
+Australia,Saudi Arabia,1009,1009,5,14,9,7,24,41,32
+Australia,Great Britain,1762,1762,5,20,5,1,17,51,52
+Australia,Germany,2040,2040,3,14,9,5,16,53,36
+Australia,France,1011,1011,4,8,5,4,13,67,35
+Australia,Denmark,1007,1007,7,20,6,2,29,37,42
+Australia,Sweden,1006,1006,5,15,5,2,32,40,34
+Australia,Finland,1005,1005,7,20,5,3,22,44,51
+Australia,Norway,732,732,5,16,6,2,22,49,41
+Japan,Australia,1020,1020,33,32,13,5,5,11,74
+Japan,China,1014,1014,12,29,22,8,5,24,54
+Japan,Hong Kong,1023,1023,57,35,5,1,1,1,93
+Japan,Indonesia,1024,1024,31,34,14,3,8,10,72
+Japan,Japan,1000,1000,67,24,2,0,3,3,94
+Japan,Malaysia,1003,1003,27,39,16,2,6,11,73
+Japan,Philippines,1019,1019,47,38,6,1,3,5,90
+Japan,Taiwan,1036,1036,60,31,7,1,1,1,92
+Japan,Thailand,1020,1020,48,38,6,2,2,4,90
+Japan,Vietnam,1011,1011,38,34,10,2,4,11,81
+Japan,India,1163,1163,13,24,13,6,10,34,57
+Japan,Singapore,1010,1010,69,23,4,2,1,2,94
+Japan,Italy,1002,1002,23,26,15,10,4,20,62
+Japan,Spain,1001,1001,22,27,21,11,5,14,57
+Japan,USA,1184,1177,29,28,7,4,9,22,74
+Japan,UAE,1027,1027,22,26,13,10,11,19,58
+Japan,Saudi Arabia,1009,1009,12,19,11,13,17,29,43
+Japan,Great Britain,1762,1762,12,24,10,7,10,36,57
+Japan,Germany,2040,2040,14,28,14,8,9,27,58
+Japan,France,1011,1011,32,23,11,8,5,22,70
+Japan,Denmark,1007,1007,23,24,9,5,16,23,61
+Japan,Sweden,1006,1006,26,31,12,6,12,12,66
+Japan,Finland,1005,1005,20,29,12,6,11,22,72
+Japan,Norway,732,732,17,29,10,5,14,25,61
+USA,Australia,1020,1020,21,39,16,6,7,12,68
+USA,China,1014,1014,7,24,16,6,8,39,51
+USA,Hong Kong,1023,1023,10,46,23,4,7,10,62
+USA,Indonesia,1024,1024,21,34,11,3,14,17,66
+USA,Japan,1000,1000,8,37,14,2,18,20,57
+USA,Malaysia,1003,1003,12,37,12,2,13,25,65
+USA,Philippines,1019,1019,50,37,3,1,3,6,93
+USA,Taiwan,1036,1036,26,44,18,2,2,8,76
+USA,Thailand,1020,1020,16,43,11,3,8,18,73
+USA,Vietnam,1011,1011,21,32,11,2,9,24,71
+USA,India,1163,1163,23,34,9,3,8,24,75
+USA,Singapore,1010,1010,27,46,10,2,3,13,83
+USA,Italy,1002,1002,10,34,23,10,4,19,54
+USA,Spain,1001,1001,17,27,28,11,6,12,49
+USA,USA,1184,1177,62,22,3,1,4,8,91
+USA,UAE,1027,1027,31,37,10,5,8,9,75
+USA,Saudi Arabia,1009,1009,22,31,8,5,14,19,66
+USA,Great Britain,1762,1762,20,41,15,5,6,13,70
+USA,Germany,2040,2040,12,32,23,9,7,16,53
+USA,France,1011,1011,14,29,17,10,7,22,56
+USA,Denmark,1007,1007,19,44,12,3,12,10,70
+USA,Sweden,1006,1006,16,44,22,5,9,4,63
+USA,Finland,1005,1005,19,44,13,5,10,9,68
+USA,Norway,732,732,19,42,17,3,9,10,68
+Mexico,Australia,1020,1020,32,38,12,4,4,10,77
+Mexico,China,1014,1014,5,15,11,6,10,53,42
+Mexico,Hong Kong,1023,1023,6,32,19,4,8,31,54
+Mexico,Indonesia,1024,1024,6,19,11,4,27,33,38
+Mexico,Japan,1000,1000,5,26,7,1,21,40,51
+Mexico,Malaysia,1003,1003,8,26,12,3,18,34,51
+Mexico,Philippines,1019,1019,28,41,6,1,6,19,85
+Mexico,Taiwan,1036,1036,11,32,19,2,6,30,62
+Mexico,Thailand,1020,1020,8,27,13,4,13,34,54
+Mexico,Vietnam,1011,1011,10,20,16,4,15,35,46
+Mexico,India,1163,1163,19,30,9,4,8,29,70
+Mexico,Singapore,1010,1010,17,38,12,3,7,24,72
+Mexico,Italy,1002,1002,22,40,11,3,4,18,77
+Mexico,Spain,1001,1001,28,39,18,5,3,7,72
+Mexico,USA,1184,1177,51,28,5,4,4,8,86
+Mexico,UAE,1027,1027,26,34,10,3,11,15,71
+Mexico,Saudi Arabia,1009,1009,20,29,8,4,15,24,64
+Mexico,Great Britain,1762,1762,27,35,10,4,6,19,76
+Mexico,Germany,2040,2040,15,43,13,4,7,18,71
+Mexico,France,1011,1011,29,33,10,3,4,21,78
+Mexico,Denmark,1007,1007,30,39,8,2,9,11,78
+Mexico,Sweden,1006,1006,25,46,9,4,8,8,77
+Mexico,Finland,1005,1005,29,41,6,3,7,14,69
+Mexico,Norway,732,732,32,41,6,2,6,12,84
+Caribbean,Australia,1020,1020,9,20,7,2,15,48,55
+Caribbean,China,1014,1014,4,8,12,7,10,60,30
+Caribbean,Hong Kong,1023,1023,3,17,16,4,11,49,39
+Caribbean,Indonesia,1024,1024,4,9,12,5,32,39,21
+Caribbean,Japan,1000,1000,1,6,3,1,24,64,22
+Caribbean,Malaysia,1003,1003,3,13,11,4,22,47,31
+Caribbean,Philippines,1019,1019,11,25,7,2,12,43,63
+Caribbean,Taiwan,1036,1036,6,14,12,1,9,58,46
+Caribbean,Thailand,1020,1020,3,12,13,5,16,51,29
+Caribbean,Vietnam,1011,1011,7,14,16,5,18,40,35
+Caribbean,India,1163,1163,8,20,10,5,13,45,50
+Caribbean,Singapore,1010,1010,5,18,8,2,13,55,50
+Caribbean,Italy,1002,1002,5,20,9,4,14,49,49
+Caribbean,Spain,1001,1001,11,23,15,3,12,35,54
+Caribbean,USA,1184,1177,18,26,5,3,13,35,68
+Caribbean,UAE,1027,1027,11,21,12,5,20,32,47
+Caribbean,Saudi Arabia,1009,1009,6,13,7,6,27,41,33
+Caribbean,Great Britain,1762,1762,14,30,10,3,10,33,66
+Caribbean,Germany,2040,2040,6,20,10,4,12,48,50
+Caribbean,France,1011,1011,11,11,5,3,11,60,54
+Caribbean,Denmark,1007,1007,9,17,6,1,26,41,44
+Caribbean,Sweden,1006,1006,8,24,7,3,25,34,48
+Caribbean,Finland,1005,1005,10,24,5,2,19,40,46
+Caribbean,Norway,732,732,10,22,6,2,19,40,54
+Argentina,Australia,1020,1020,10,18,6,2,16,49,53
+Argentina,China,1014,1014,4,11,10,5,11,59,37
+Argentina,Hong Kong,1023,1023,3,15,17,4,11,51,36
+Argentina,Indonesia,1024,1024,4,11,11,4,31,39,25
+Argentina,Japan,1000,1000,1,4,3,1,24,67,16
+Argentina,Malaysia,1003,1003,3,9,11,4,24,49,24
+Argentina,Philippines,1019,1019,6,23,8,2,15,46,55
+Argentina,Taiwan,1036,1036,4,13,13,1,9,59,42
+Argentina,Thailand,1020,1020,2,9,14,6,15,54,24
+Argentina,Vietnam,1011,1011,6,15,15,5,18,40,35
+Argentina,India,1163,1163,7,16,11,5,14,48,43
+Argentina,Singapore,1010,1010,3,11,8,3,14,62,35
+Argentina,Italy,1002,1002,17,35,7,3,8,30,75
+Argentina,Spain,1001,1001,22,43,10,2,7,17,77
+Argentina,USA,1184,1177,9,14,3,3,19,52,48
+Argentina,UAE,1027,1027,9,21,12,5,19,33,45
+Argentina,Saudi Arabia,1009,1009,6,11,9,6,26,43,29
+Argentina,Great Britain,1762,1762,5,12,2,2,16,63,46
+Argentina,Germany,2040,2040,8,25,7,3,12,44,60
+Argentina,France,1011,1011,9,12,4,3,11,61,54
+Argentina,Denmark,1007,1007,9,18,4,1,28,40,45
+Argentina,Sweden,1006,1006,7,16,5,2,26,43,41
+Argentina,Finland,1005,1005,6,15,6,2,21,50,45
+Argentina,Norway,732,732,9,20,3,2,20,45,54
+Brazil,Australia,1020,1020,11,19,7,2,15,46,56
+Brazil,China,1014,1014,5,13,10,6,10,56,42
+Brazil,Hong Kong,1023,1023,3,19,18,5,10,46,41
+Brazil,Indonesia,1024,1024,4,13,11,4,30,37,28
+Brazil,Japan,1000,1000,3,12,6,1,24,55,33
+Brazil,Malaysia,1003,1003,3,11,11,4,23,48,26
+Brazil,Philippines,1019,1019,8,26,8,2,14,43,59
+Brazil,Taiwan,1036,1036,5,14,14,2,9,56,43
+Brazil,Thailand,1020,1020,2,12,13,6,16,51,29
+Brazil,Vietnam,1011,1011,9,20,13,4,16,38,47
+Brazil,India,1163,1163,8,18,10,5,13,46,49
+Brazil,Singapore,1010,1010,5,16,9,3,14,53,45
+Brazil,Italy,1002,1002,12,30,10,3,9,37,66
+Brazil,Spain,1001,1001,11,26,15,3,11,35,56
+Brazil,USA,1184,1177,12,17,4,2,17,47,55
+Brazil,UAE,1027,1027,11,22,13,5,19,31,48
+Brazil,Saudi Arabia,1009,1009,7,17,9,5,24,38,39
+Brazil,Great Britain,1762,1762,6,15,4,3,15,57,49
+Brazil,Germany,2040,2040,5,20,9,4,13,50,49
+Brazil,France,1011,1011,11,17,6,3,11,53,58
+Brazil,Denmark,1007,1007,7,18,5,1,28,41,42
+Brazil,Sweden,1006,1006,7,17,6,2,28,41,40
+Brazil,Finland,1005,1005,7,17,5,2,20,48,46
+Brazil,Norway,732,732,7,19,5,1,22,46,48
+Peru,Australia,1020,1020,6,13,6,2,17,56,44
+Peru,China,1014,1014,4,8,12,8,11,57,28
+Peru,Hong Kong,1023,1023,3,12,17,5,11,52,31
+Peru,Indonesia,1024,1024,3,10,11,4,34,39,21
+Peru,Japan,1000,1000,2,4,4,1,24,66,16
+Peru,Malaysia,1003,1003,2,7,11,4,25,51,19
+Peru,Philippines,1019,1019,4,18,9,2,15,51,47
+Peru,Taiwan,1036,1036,4,9,13,2,10,63,33
+Peru,Thailand,1020,1020,2,6,15,7,17,54,16
+Peru,Vietnam,1011,1011,7,14,15,5,18,41,37
+Peru,India,1163,1163,7,13,10,6,15,50,39
+Peru,Singapore,1010,1010,2,10,7,3,14,64,33
+Peru,Italy,1002,1002,5,12,8,4,15,56,39
+Peru,Spain,1001,1001,11,20,15,4,13,37,50
+Peru,USA,1184,1177,9,12,4,3,19,53,44
+Peru,UAE,1027,1027,7,16,12,6,22,36,37
+Peru,Saudi Arabia,1009,1009,3,9,9,7,26,45,23
+Peru,Great Britain,1762,1762,2,6,3,2,17,70,27
+Peru,Germany,2040,2040,2,9,8,5,15,60,28
+Peru,France,1011,1011,3,9,3,3,13,69,39
+Peru,Denmark,1007,1007,4,6,4,2,32,51,21
+Peru,Sweden,1006,1006,4,9,5,2,29,50,27
+Peru,Finland,1005,1005,4,10,6,3,24,54,32
+Peru,Norway,732,732,4,10,5,3,24,54,30
